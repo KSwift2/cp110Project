@@ -1,0 +1,40 @@
+body{
+    font-family: 'Lato', sans-serif;
+   font-family: 'Special Elite', cursive;
+   background: #008080; 
+}
+.header_div
+{
+    background: lightgreen;
+    color:lightseagreen;
+}
+.header_div img{
+    width: 100px
+}
+
+.main_div
+{
+    background:#006D5B ;
+    padding:10px;
+    margin-top:15px;
+    border: 3px solid lightgreen;
+}
+ .main_div label {
+     background: ghostwhite;
+     width: 310px;
+     padding: 10px;
+     margin-bottom:0px;
+     box-shadow: 5px 5px 18px lightseagreen;
+ }
+ #camera{
+     border: 2px solid lightgreen;
+     width: 310px;
+     height: 300px;
+     box-shadow: 5px 5px 18px turquoise;
+ }
+ .main_div button {
+     width: 310px;
+     font-size:16px;
+     box-shadow: 5px 5px 18px darkturquoise;
+     border: 1px solid;
+ }
